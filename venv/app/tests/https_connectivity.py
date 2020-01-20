@@ -12,7 +12,7 @@ class HTTPSConnectivity(InternetRequests):
                 self.set_success(True)
                 self.set_result_latency(latency)
             else:
-                raise Exception('Method is currently not supported')
+                raise Exception("Method "+ self.method +" is currently not supported")
         except requests.exceptions.ConnectionError:
             self.set_success(False)
         self.log()
@@ -20,7 +20,7 @@ class HTTPSConnectivity(InternetRequests):
     def log_message(self):
         result = "Succeed with latency of [" + str(self.result_latency) +"] " if self.success else "Failed "
         result += "to perform HTTPS connectivity with " + self.method + " request to " + self.ip_address
-        if self.attributes is not None and self.attributes != "":
-            result +=" with params: " + self.attributes
+        if self.params is not None and self.params != "":
+            result +=" with params: " + self.params
         return result
 
