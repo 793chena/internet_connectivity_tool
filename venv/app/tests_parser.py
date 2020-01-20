@@ -33,7 +33,6 @@ class TestsParser:
         for test in raw_tests:
             current_test = self.create_test(test)
             tests_objects.append(current_test)
-            print(current_test)
 
         return tests_objects
 

@@ -19,7 +19,7 @@
       "properties": {
         "method": "GET",
         "address": "www.chen.com",
-        "attributes": ""
+        "attributes": null
       }
     }
   ]

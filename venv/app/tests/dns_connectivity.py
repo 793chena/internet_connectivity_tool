@@ -4,17 +4,21 @@ from .test import Test
 class DNSConnectivity(Test):
     def __init__(self, address):
         self.address = address
+        self.success = None
+
+    def set_success(self, success):
+        self.success = success
 
     def run(self):
         try:
             result = socket.gethostbyname(self.address)
-            success = True
+            self.set_success(True)
         except socket.gaierror:
-            success = False
-        print(self.log(success)) # Todo write to log file
+            self.set_success(False)
+        self.log()
 
-    def log_message(self, success):
-        result = "Succeed " if success else "Failed "
+    def log_message(self):
+        result = "Succeed " if self.success else "Failed "
         result += "to perform DNS lookup to " + self.address
 
         return result

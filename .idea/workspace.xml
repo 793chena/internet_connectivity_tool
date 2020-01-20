@@ -25,7 +25,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/venv/app/tests" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -134,29 +134,29 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="421" y="100" key="FileChooserDialogImpl" timestamp="1579514724548">
+    <state x="421" y="100" key="FileChooserDialogImpl" timestamp="1579516179864">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="421" y="100" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1579514724548" />
-    <state width="1259" height="163" key="GridCell.Tab.0.bottom" timestamp="1579515359409">
+    <state x="421" y="100" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1579516179864" />
+    <state width="1259" height="163" key="GridCell.Tab.0.bottom" timestamp="1579517983859">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1579515359409" />
-    <state width="1259" height="163" key="GridCell.Tab.0.center" timestamp="1579515359409">
+    <state width="1259" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1579517983859" />
+    <state width="1259" height="163" key="GridCell.Tab.0.center" timestamp="1579517983859">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1579515359409" />
-    <state width="1259" height="163" key="GridCell.Tab.0.left" timestamp="1579515359409">
+    <state width="1259" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1579517983859" />
+    <state width="1259" height="163" key="GridCell.Tab.0.left" timestamp="1579517983859">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1579515359409" />
-    <state width="1259" height="163" key="GridCell.Tab.0.right" timestamp="1579515359409">
+    <state width="1259" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1579517983859" />
+    <state width="1259" height="163" key="GridCell.Tab.0.right" timestamp="1579517983859">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1579515359409" />
-    <state x="346" y="0" width="588" height="680" key="find.popup" timestamp="1579513420964">
+    <state width="1259" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1579517983859" />
+    <state x="346" y="0" width="588" height="680" key="find.popup" timestamp="1579516198198">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="346" y="0" width="588" height="680" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1579513420964" />
+    <state x="346" y="0" width="588" height="680" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1579516198198" />
   </component>
 </project>
