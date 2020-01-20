@@ -203,6 +203,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="403" y="152" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1579542041029">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="403" y="152" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1579542041029" />
     <state x="421" y="100" key="FileChooserDialogImpl" timestamp="1579516179864">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
