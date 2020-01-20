@@ -79,3 +79,6 @@
 2020-01-20 19:37:36.218421 -- Succeed to perform DNS lookup to www.google.com
 2020-01-20 19:37:37.734924 -- Succeed with latency of [0.681255] to perform HTTP connectivity with GET request to www.yahoo.com
 2020-01-20 19:37:40.963128 -- Failed to perform HTTPS connectivity with GET request to www.chen.com
+2020-01-20 20:02:28.389175 -- Succeed to perform DNS lookup to www.google.com
+2020-01-20 20:02:29.821459 -- Succeed with latency of [0.635562] to perform HTTP connectivity with GET request to www.yahoo.com
+2020-01-20 20:02:33.186862 -- Failed to perform HTTPS connectivity with GET request to www.chen.com
