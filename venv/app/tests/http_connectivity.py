@@ -1,35 +1,26 @@
-from .test import Test
-from interface import implements
+#from .test import Test
+from .internet_requests import InternetRequests
 import requests
 
 HTTP_PREFIX = 'http://'
 
-class HTTPConnectivity(implements(Test)):
-    def __init__(self, ip_address, method, attributes):
-        self.ip_address = ip_address
-        self.method = method
-        self.attributes = attributes
+class HTTPConnectivity(InternetRequests):
+    def run(self, dry_mode = False):
+        try:
+            if self.method == 'GET':
+                latency = self.get_request_latency(url= HTTP_PREFIX + self.address)
+                self.set_success(True)
+                self.set_result_latency(latency)
+            else:
+                raise Exception("Method "+ self.method +" is currently not supported")
+        except requests.exceptions.ConnectionError:
+            self.set_success(False)
+        self.log(dry_mode)
 
-    def run(self):
-        result = requests.get(url = HTTP_PREFIX + self.ip_address, params = self.attributes)
-        if result == None:
-            return 'Oh no'
+    def log_message(self):
+        result = "Succeed with latency of [" + str(self.result_latency) +"] " if self.success else "Failed "
+        result += "to perform HTTP connectivity with " + self.method + " request to " + self.address
+        if self.params is not None and self.params != "":
+            result +=" with params: " + self.params
+
         return result
-
-    def log_message(self, success):
-        result = "Succeed " if success else "Failed "
-        result += "to perform HTTP connectivity with " + self.method + " to" + self.ip_address + \
-                  " with params: " + self.attributes
-
-        return result
-
-    def write_to_log_file(self, message):
-        f = open("tests_log.txt", "a+")
-        f.write(str(datetime.now()) + " -- " + message +"\n")
-
-        f.close()
-
-    def log(self, success):
-        message = self.log_message(success)
-        self.write_to_log_file(message)
-        print(message)

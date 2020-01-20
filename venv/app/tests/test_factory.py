@@ -8,8 +8,8 @@ class TestFactory:
         if type == DNS_CONNECTIVITY:
             return DNSConnectivity(properties["address"])
         elif type == HTTP_CONNECTIVITY:
-            return HTTPConnectivity(properties["address"], properties["method"], properties["attributes"])
+            return HTTPConnectivity(properties["address"], properties["method"], properties["params"])
         elif type == HTTPS_CONNECTIVITY:
-            return HTTPSConnectivity(properties["address"], properties["method"], properties["attributes"])
+            return HTTPSConnectivity(properties["address"], properties["method"], properties["params"])
         else:
             raise NameError('Test type not found')
