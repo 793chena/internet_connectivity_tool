@@ -1,0 +1,3 @@
+2020-01-20 11:48:19.092503 -- Failed to perform DNS lookup to www.gooadsfasfgle.com
+2020-01-20 11:48:45.558029 -- Failed to perform DNS lookup to www.gooadsfasfgle.com
+2020-01-20 11:48:51.229180 -- Failed to perform DNS lookup to www.gooadsfasfgle.com
