@@ -227,4 +227,14 @@
     </state>
     <state x="346" y="0" width="588" height="680" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1579527424602" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/venv/app/configurations_parser_unit_tests.py</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
 </project>
