@@ -22,15 +22,15 @@ tests array.
       "properties": {
         "method":  #{request method, currently only GET is supported (String)},
         "address":  #{website address (String)},
-        "params":  #{request parameters (String)}
+        "params":  #{request parameters (json object)}
       }
     },
     {
       "name": "HTTPS_CONNECTIVITY",
       "properties": {
-        "method": "GET",
-        "address": "www.chen.com",
-        "params": null
+        "method":  #{request method, currently only GET is supported (String)},
+        "address":  #{website address (String)},
+        "params":  #{request parameters (json object)}
       }
     }
   ]

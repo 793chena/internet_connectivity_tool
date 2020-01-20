@@ -11,7 +11,7 @@
       "properties": {
         "method": "GET",
         "address": "www.yahoo.com",
-        "params": ""
+        "params": {"lan":  "chen"}
       }
     },
     {

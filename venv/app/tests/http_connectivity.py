@@ -21,6 +21,6 @@ class HTTPConnectivity(InternetRequests):
         result = "Succeed with latency of [" + str(self.result_latency) +"] " if self.success else "Failed "
         result += "to perform HTTP connectivity with " + self.method + " request to " + self.address
         if self.params is not None and self.params != "":
-            result +=" with params: " + self.params
+            result +=" with params: " + str(self.params)
 
         return result
