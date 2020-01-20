@@ -1,1 +1,28 @@
-{ "tests": [ {"name": "HTTPS_CONNECTIVITY", "properties": { "address": "byjcgnzdwb", "method": "GET", "params" : null}},{"name": "HTTP_CONNECTIVITY", "properties": { "address": "byjcgnzdwb", "method": "GET", "params" : null}},{"name": "DNS_CONNECTIVITY", "properties": { "address": "byjcgnzdwb"}},{"name": "DNS_CONNECTIVITY", "properties": { "address": "byjcgnzdwb"}} ] }
+//  Supported tests options: DNS_CONNECTIVITY, HTTP_CONNECTIVITY, HTTPS_CONNECTIVITY
+
+{
+  "tests": [
+    {
+      "name": "DNS_CONNECTIVITY",
+      "properties": {
+        "address": "www.google.com"
+      }
+    },
+    {
+      "name": "HTTP_CONNECTIVITY",
+      "properties": {
+        "method": "GET",
+        "address": "www.yahoo.com",
+        "params": ""
+      }
+    },
+    {
+      "name": "HTTPS_CONNECTIVITY",
+      "properties": {
+        "method": "GET",
+        "address": "www.chen.com",
+        "params": null
+      }
+    }
+  ]
+}
