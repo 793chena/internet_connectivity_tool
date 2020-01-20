@@ -9,15 +9,11 @@ class HTTPSConnectivity(InternetRequests):
         try:
             if self.method == 'GET':
                 latency = self.get_request_latency(url=HTTPS_PREFIX + self.address)
-                print("im here")
-                print(latency)
                 self.set_success(True)
                 self.set_result_latency(latency)
             else:
-                print("not supported")
                 raise Exception("Method "+ self.method +" is currently not supported")
         except requests.exceptions.ConnectionError:
-            print("in exception")
             self.set_success(False)
         self.log(dry_mode)
 

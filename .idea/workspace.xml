@@ -40,7 +40,7 @@
       <recent name="C:\Users\92CHE\PycharmProjects\internet_connectivity_tool\venv\app\tests" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.configurations_parser_unit_tests">
+  <component name="RunManager" selected="Python.main">
     <configuration name="configurations_parser_unit_tests" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="internet_connectivity_tool" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -169,11 +169,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.main" />
         <item itemvalue="Python.configurations_parser_unit_tests" />
         <item itemvalue="Python.http_connectivity_unit_tests" />
         <item itemvalue="Python.dns_connectivity_unit_tests (1)" />
         <item itemvalue="Python.https_connectivity_unit_tests" />
-        <item itemvalue="Python.main" />
       </list>
     </recent_temporary>
   </component>
@@ -207,26 +207,26 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="421" y="100" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1579516179864" />
-    <state width="1259" height="163" key="GridCell.Tab.0.bottom" timestamp="1579533264256">
+    <state width="1259" height="163" key="GridCell.Tab.0.bottom" timestamp="1579541855867">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1579533264256" />
-    <state width="1259" height="163" key="GridCell.Tab.0.center" timestamp="1579533264255">
+    <state width="1259" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1579541855867" />
+    <state width="1259" height="163" key="GridCell.Tab.0.center" timestamp="1579541855867">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1579533264255" />
-    <state width="1259" height="163" key="GridCell.Tab.0.left" timestamp="1579533264255">
+    <state width="1259" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1579541855867" />
+    <state width="1259" height="163" key="GridCell.Tab.0.left" timestamp="1579541855867">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1579533264255" />
-    <state width="1259" height="163" key="GridCell.Tab.0.right" timestamp="1579533264256">
+    <state width="1259" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1579541855867" />
+    <state width="1259" height="163" key="GridCell.Tab.0.right" timestamp="1579541855867">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1579533264256" />
-    <state x="346" y="0" width="588" height="680" key="find.popup" timestamp="1579531262511">
+    <state width="1259" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1579541855867" />
+    <state x="346" y="0" width="588" height="680" key="find.popup" timestamp="1579541843557">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="346" y="0" width="588" height="680" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1579531262511" />
+    <state x="346" y="0" width="588" height="680" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1579541843557" />
     <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1579532882749">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
