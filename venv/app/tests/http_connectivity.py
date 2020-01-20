@@ -1,10 +1,9 @@
 from .test import Test
-from interface import implements
 import requests
 
 HTTP_PREFIX = 'http://'
 
-class HTTPConnectivity(implements(Test)):
+class HTTPConnectivity(Test):
     def __init__(self, ip_address, method, attributes):
         self.ip_address = ip_address
         self.method = method
@@ -22,14 +21,3 @@ class HTTPConnectivity(implements(Test)):
                   " with params: " + self.attributes
 
         return result
-
-    def write_to_log_file(self, message):
-        f = open("tests_log.txt", "a+")
-        f.write(str(datetime.now()) + " -- " + message +"\n")
-
-        f.close()
-
-    def log(self, success):
-        message = self.log_message(success)
-        self.write_to_log_file(message)
-        print(message)

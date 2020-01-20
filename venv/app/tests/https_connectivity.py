@@ -1,10 +1,9 @@
 from .test import Test
-from interface import implements
 import requests
 
 HTTPS_PREFIX = 'https://'
 
-class HTTPSConnectivity(implements(Test)):
+class HTTPSConnectivity(Test):
     def __init__(self, ip_address, method, attributes):
         self.ip_address = ip_address
         self.method = method
