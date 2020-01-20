@@ -1,11 +1,9 @@
-//  Supported tests options: DNS_CONNECTIVITY, HTTP_CONNECTIVITY, HTTPS_CONNECTIVITY
-
 {
   "tests": [
     {
       "name": "DNS_CONNECTIVITY",
       "properties": {
-        "address": "www.google.com"
+        "address": "www.gooadsfasfgle.com"
       }
     },
     {

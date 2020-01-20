@@ -1,33 +1,24 @@
 import socket
 from .test import Test
-from interface import implements
-from datetime import datetime
 
-class DNSConnectivity(implements(Test)):
+class DNSConnectivity(Test):
     def __init__(self, address):
         self.address = address
+        self.success = None
 
-    def run(self):
+    def set_success(self, success):
+        self.success = success
+
+    def run(self, dry_mode = False):
         try:
-            result = socket.gethostbyname(self.address)
-            success = True
+            socket.gethostbyname(self.address)
+            self.set_success(True)
         except socket.gaierror:
-            success = False
-        print(self.log(success)) # Todo write to log file
+            self.set_success(False)
+        self.log(dry_mode)
 
-    def log_message(self, success):
-        result = "Succeed " if success else "Failed "
+    def log_message(self):
+        result = "Succeed " if self.success else "Failed "
         result += "to perform DNS lookup to " + self.address
 
         return result
-
-    def write_to_log_file(self, message):
-        f = open("tests_log.txt", "a+")
-        f.write(str(datetime.now()) + " -- " + message +"\n")
-
-        f.close()
-
-    def log(self, success):
-        message = self.log_message(success)
-        self.write_to_log_file(message)
-        print(message)
