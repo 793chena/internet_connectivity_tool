@@ -1,0 +1,39 @@
+Before running this tool please run the following commands:
+$ pip install requests
+
+For running the tool please run main.py file. Please make sure your configuration files contains the tests you want to
+run.
+
+Configuration file should be in the following format, when the supported types are DNS_CONNECTIVITY,
+HTTP_CONNECTIVITY and HTTPS_CONNECTIVITY. Each test type dosn't have to appear / an appear multiple times in the
+tests array.
+
+-----------------------------------------
+{
+  "tests": [
+    {
+      "name": "DNS_CONNECTIVITY",
+      "properties": {
+        "address": #{website address (String)}
+      }
+    },
+    {
+      "name": "HTTP_CONNECTIVITY",
+      "properties": {
+        "method":  #{request method, currently only GET is supported (String)},
+        "address":  #{website address (String)},
+        "params":  #{request parameters (String)}
+      }
+    },
+    {
+      "name": "HTTPS_CONNECTIVITY",
+      "properties": {
+        "method": "GET",
+        "address": "www.chen.com",
+        "params": null
+      }
+    }
+  ]
+}
+
+--------------------------------------------
