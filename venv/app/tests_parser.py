@@ -25,6 +25,7 @@ class TestsParser:
         tests_configurations_json = configurations_file.read()
         tests_configurations = json.loads(tests_configurations_json)
         tests = tests_configurations[TESTS_KEY]
+        configurations_file.close()
 
         return tests
 
