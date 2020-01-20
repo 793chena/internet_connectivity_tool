@@ -27,3 +27,30 @@
 2020-01-20 12:59:44.161342 -- Failed to perform DNS lookup to www.gooadsfasfgle.com
 2020-01-20 12:59:45.267048 -- Succeed with latency of [0.54464] to perform HTTP connectivity with GET request to www.yahoo.com
 2020-01-20 12:59:48.376325 -- Failed to perform HTTPS connectivity with GET request to www.chen.com
+2020-01-20 13:03:17.653386 -- Failed to perform DNS lookup to www.gooadsfasfgle.com
+2020-01-20 13:03:18.922430 -- Succeed with latency of [0.588406] to perform HTTP connectivity with GET request to www.yahoo.com
+2020-01-20 13:03:22.064420 -- Failed to perform HTTPS connectivity with GET request to www.chen.com
+2020-01-20 13:04:58.771873 -- Failed to perform DNS lookup to www.gooadsfasfgle.com
+2020-01-20 13:04:59.843501 -- Succeed with latency of [0.525402] to perform HTTP connectivity with GET request to www.yahoo.com
+2020-01-20 13:05:02.964894 -- Failed to perform HTTPS connectivity with GET request to www.chen.com
+2020-01-20 13:11:59.414053 -- Failed to perform DNS lookup to www.gooadsfasfgle.com
+2020-01-20 13:11:59.507147 -- Failed to perform HTTP connectivity with GET request to www.yahoo.com
+2020-01-20 13:11:59.593025 -- Failed to perform HTTPS connectivity with GET request to www.chen.com
+2020-01-20 13:12:25.210147 -- Failed to perform DNS lookup to www.gooadsfasfgle.com
+2020-01-20 13:12:25.261179 -- Failed to perform HTTP connectivity with GET request to www.yahoo.com
+2020-01-20 13:12:25.417507 -- Failed to perform HTTPS connectivity with GET request to www.chen.com
+2020-01-20 13:12:43.892627 -- Failed to perform DNS lookup to www.gooadsfasfgle.com
+2020-01-20 13:12:43.914764 -- Failed to perform HTTP connectivity with GET request to www.yahoo.com
+2020-01-20 13:12:43.933630 -- Failed to perform HTTPS connectivity with GET request to www.chen.com
+2020-01-20 13:14:09.062516 -- Failed to perform DNS lookup to www.gooadsfasfgle.com
+2020-01-20 13:14:09.086319 -- Failed to perform HTTP connectivity with GET request to www.yahoo.com
+2020-01-20 13:14:09.104627 -- Failed to perform HTTPS connectivity with GET request to www.chen.com
+2020-01-20 13:14:25.221090 -- Failed to perform DNS lookup to www.gooadsfasfgle.com
+2020-01-20 13:14:25.237823 -- Failed to perform HTTP connectivity with GET request to www.yahoo.com
+2020-01-20 13:14:25.253738 -- Failed to perform HTTPS connectivity with GET request to www.chen.com
+2020-01-20 13:14:41.864053 -- Failed to perform DNS lookup to www.gooadsfasfgle.com
+2020-01-20 13:14:42.998398 -- Succeed with latency of [0.552149] to perform HTTP connectivity with GET request to www.yahoo.com
+2020-01-20 13:14:46.080425 -- Failed to perform HTTPS connectivity with GET request to www.chen.com
+2020-01-20 13:14:47.911578 -- Failed to perform DNS lookup to www.gooadsfasfgle.com
+2020-01-20 13:14:49.092917 -- Succeed with latency of [0.555468] to perform HTTP connectivity with GET request to www.yahoo.com
+2020-01-20 13:14:52.237664 -- Failed to perform HTTPS connectivity with GET request to www.chen.com

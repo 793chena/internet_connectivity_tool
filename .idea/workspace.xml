@@ -28,12 +28,12 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/venv/app/tests" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\92CHE\PycharmProjects\internet_connectivity_tool\venv\app\tests" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\92CHE\PycharmProjects\internet_connectivity_tool\venv" />
       <recent name="C:\Users\92CHE\PycharmProjects\internet_connectivity_tool" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\92CHE\PycharmProjects\internet_connectivity_tool\venv\app\tests" />
     </key>
   </component>
   <component name="RunManager" selected="Python.main (1)">
@@ -138,22 +138,22 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="421" y="100" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1579516179864" />
-    <state width="1259" height="163" key="GridCell.Tab.0.bottom" timestamp="1579517983859">
+    <state width="1259" height="163" key="GridCell.Tab.0.bottom" timestamp="1579518887627">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1579517983859" />
-    <state width="1259" height="163" key="GridCell.Tab.0.center" timestamp="1579517983859">
+    <state width="1259" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1579518887627" />
+    <state width="1259" height="163" key="GridCell.Tab.0.center" timestamp="1579518887627">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1579517983859" />
-    <state width="1259" height="163" key="GridCell.Tab.0.left" timestamp="1579517983859">
+    <state width="1259" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1579518887627" />
+    <state width="1259" height="163" key="GridCell.Tab.0.left" timestamp="1579518887627">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1579517983859" />
-    <state width="1259" height="163" key="GridCell.Tab.0.right" timestamp="1579517983859">
+    <state width="1259" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1579518887627" />
+    <state width="1259" height="163" key="GridCell.Tab.0.right" timestamp="1579518887627">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1579517983859" />
+    <state width="1259" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1579518887627" />
     <state x="346" y="0" width="588" height="680" key="find.popup" timestamp="1579516198198">
       <screen x="0" y="0" width="1280" height="680" />
     </state>

@@ -1,27 +1,18 @@
-from .test import Test
+#from .test import Test
+from .internet_requests import InternetRequests
 import requests
 
 HTTP_PREFIX = 'http://'
 
-class HTTPConnectivity(Test):
-    def __init__(self, ip_address, method, attributes):
-        self.ip_address = ip_address
-        self.method = method
-        self.attributes = attributes
-        self.success = None
-        self.result_latency = None
-
-    def set_success(self, success):
-        self.success = success
-
-    def set_result_latency(self, result_latency):
-        self.result_latency = result_latency
-
+class HTTPConnectivity(InternetRequests):
     def run(self):
         try:
-            latency = requests.get(url=HTTP_PREFIX + self.ip_address, params=self.attributes).elapsed.total_seconds()
-            self.set_success(True)
-            self.set_result_latency(latency)
+            if self.method == 'GET':
+                latency = self.get_request_latency(url= HTTP_PREFIX + self.ip_address)
+                self.set_success(True)
+                self.set_result_latency(latency)
+            else:
+                raise Exception('Method is currently not supported')
         except requests.exceptions.ConnectionError:
             self.set_success(False)
         self.log()

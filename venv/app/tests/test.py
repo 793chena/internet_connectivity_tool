@@ -2,12 +2,16 @@ from abc import ABC, abstractmethod
 from datetime import datetime
 
 class Test(ABC):
+
+    @abstractmethod
     def run(self):
         pass
 
+    @abstractmethod
     def set_success(self):
         pass
 
+    @abstractmethod
     def log_message(self):
         pass
 
