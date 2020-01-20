@@ -11,7 +11,7 @@
       "properties": {
         "method": "GET",
         "address": "www.yahoo.com",
-        "attributes": ""
+        "params": ""
       }
     },
     {
@@ -19,7 +19,7 @@
       "properties": {
         "method": "GET",
         "address": "www.chen.com",
-        "attributes": null
+        "params": null
       }
     }
   ]

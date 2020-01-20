@@ -3,3 +3,69 @@
 2020-01-20 13:25:39.877910 -- Failed to perform DNS lookup to www.gooadsfasfgle.com
 2020-01-20 13:25:40.967540 -- Succeed with latency of [0.515073] to perform HTTP connectivity with GET request to www.yahoo.com
 2020-01-20 13:25:44.072959 -- Failed to perform HTTPS connectivity with GET request to www.chen.com
+2020-01-20 13:49:05.578498 -- Failed to perform DNS lookup to www.gooadsfasfgle.com
+2020-01-20 13:49:06.651003 -- Succeed with latency of [0.513547] to perform HTTP connectivity with GET request to www.yahoo.com
+2020-01-20 13:49:09.839639 -- Failed to perform HTTPS connectivity with GET request to www.chen.com
+2020-01-20 14:11:28.703930 -- Succeed to perform DNS lookup to www.google.com
+2020-01-20 14:13:47.094440 -- Succeed to perform DNS lookup to www.google.com
+2020-01-20 14:14:26.624221 -- Succeed to perform DNS lookup to www.google.com
+2020-01-20 14:14:36.713378 -- Succeed to perform DNS lookup to www.google.com
+2020-01-20 14:17:40.849640 -- Failed to perform DNS lookup to qxiszhuspp
+2020-01-20 14:17:40.855787 -- Succeed to perform DNS lookup to www.google.com
+2020-01-20 14:17:41.732317 -- Succeed with latency of [0.638808] to perform HTTP connectivity with GET request to 1.1.1.1
+2020-01-20 14:17:43.738817 -- Failed to perform HTTP connectivity with GET request to 127.0.0.1
+2020-01-20 14:18:19.099238 -- Failed to perform DNS lookup to cqmvhatlhb
+2020-01-20 14:18:19.105810 -- Succeed to perform DNS lookup to www.google.com
+2020-01-20 14:18:19.623799 -- Succeed with latency of [0.262845] to perform HTTP connectivity with GET request to 1.1.1.1
+2020-01-20 14:18:21.627775 -- Failed to perform HTTP connectivity with GET request to 127.0.0.1
+2020-01-20 14:20:04.909897 -- Failed to perform DNS lookup to zevadusnpf
+2020-01-20 14:20:04.929726 -- Succeed to perform DNS lookup to www.google.com
+2020-01-20 14:20:06.949065 -- Failed to perform HTTP connectivity with GET request to 127.0.0.1
+2020-01-20 14:20:07.642555 -- Succeed with latency of [0.183071] to perform HTTP connectivity with GET request to 172.217.18.100
+2020-01-20 14:22:22.965665 -- Failed to perform DNS lookup to hsnjyetajc
+2020-01-20 14:22:22.978198 -- Succeed to perform DNS lookup to www.google.com
+2020-01-20 14:22:25.022376 -- Failed to perform HTTP connectivity with GET request to 127.0.0.1
+2020-01-20 14:22:25.400177 -- Succeed with latency of [0.205629] to perform HTTP connectivity with GET request to 172.217.18.100
+2020-01-20 14:22:43.751026 -- Failed to perform DNS lookup to yhhiqjdgzn
+2020-01-20 14:22:43.757138 -- Succeed to perform DNS lookup to www.google.com
+2020-01-20 14:22:45.782861 -- Failed to perform HTTP connectivity with GET request to 127.0.0.1
+2020-01-20 14:22:46.160166 -- Succeed with latency of [0.20278] to perform HTTP connectivity with GET request to 172.217.18.100
+2020-01-20 14:24:51.370825 -- Failed to perform DNS lookup to rnjevadhgj
+2020-01-20 14:24:51.390351 -- Succeed to perform DNS lookup to www.google.com
+2020-01-20 14:24:53.418008 -- Failed to perform HTTP connectivity with GET request to 127.0.0.1
+2020-01-20 14:24:54.173109 -- Succeed with latency of [0.204608] to perform HTTP connectivity with GET request to 172.217.23.164
+2020-01-20 14:26:32.719991 -- Failed to perform DNS lookup to wiybicayry
+2020-01-20 14:26:32.741392 -- Succeed to perform DNS lookup to www.google.com
+2020-01-20 14:26:32.754847 -- Succeed to perform DNS lookup to www.google.com
+2020-01-20 14:26:34.771461 -- Failed to perform HTTP connectivity with GET request to 127.0.0.1
+2020-01-20 14:26:35.193704 -- Succeed with latency of [0.250042] to perform HTTP connectivity with GET request to 172.217.23.164
+2020-01-20 14:29:45.684938 -- Failed to perform DNS lookup to www.gooadsfasfgle.com
+2020-01-20 14:29:46.793590 -- Succeed with latency of [0.544453] to perform HTTP connectivity with GET request to www.yahoo.com
+2020-01-20 14:29:49.870279 -- Failed to perform HTTPS connectivity with GET request to www.chen.com
+2020-01-20 14:32:39.707633 -- Failed to perform DNS lookup to www.gooadsfasfgle.com
+2020-01-20 14:32:40.742531 -- Succeed with latency of [0.512932] to perform HTTP connectivity with GET request to www.yahoo.com
+2020-01-20 14:32:43.833440 -- Failed to perform HTTPS connectivity with GET request to www.chen.com
+2020-01-20 14:33:02.659693 -- Failed to perform DNS lookup to bjgkwdrxga
+2020-01-20 14:33:02.679546 -- Succeed to perform DNS lookup to www.google.com
+2020-01-20 14:33:02.691944 -- Succeed to perform DNS lookup to www.google.com
+2020-01-20 14:33:04.708200 -- Failed to perform HTTP connectivity with GET request to 127.0.0.1
+2020-01-20 14:33:05.400359 -- Succeed with latency of [0.500858] to perform HTTP connectivity with GET request to 172.217.18.100
+2020-01-20 14:34:06.184996 -- Failed to perform DNS lookup to hkrquxgqty
+2020-01-20 14:34:06.190942 -- Succeed to perform DNS lookup to www.google.com
+2020-01-20 14:34:06.194170 -- Succeed to perform DNS lookup to www.google.com
+2020-01-20 14:34:08.215077 -- Failed to perform HTTP connectivity with GET request to 127.0.0.1
+2020-01-20 14:34:08.528694 -- Succeed with latency of [0.164611] to perform HTTP connectivity with GET request to 172.217.18.100
+2020-01-20 14:34:55.514427 -- Failed to perform DNS lookup to uysdlxvooj
+2020-01-20 14:34:55.520909 -- Succeed to perform DNS lookup to www.google.com
+2020-01-20 14:34:55.524487 -- Succeed to perform DNS lookup to www.google.com
+2020-01-20 14:34:57.545561 -- Failed to perform HTTP connectivity with GET request to 127.0.0.1
+2020-01-20 14:34:57.904421 -- Succeed with latency of [0.208804] to perform HTTP connectivity with GET request to 172.217.18.100
+2020-01-20 14:35:35.415177 -- Failed to perform DNS lookup to qpkeyujpys
+2020-01-20 14:35:35.421197 -- Succeed to perform DNS lookup to www.google.com
+2020-01-20 14:35:35.424041 -- Succeed to perform DNS lookup to www.google.com
+2020-01-20 14:35:37.446407 -- Failed to perform HTTP connectivity with GET request to 127.0.0.1
+2020-01-20 14:35:37.781364 -- Succeed with latency of [0.190351] to perform HTTP connectivity with GET request to 172.217.18.100
+2020-01-20 14:35:52.765636 -- Failed to perform HTTP connectivity with GET request to 127.0.0.1
+2020-01-20 15:25:18.360162 -- Failed to perform DNS lookup to www.gooadsfasfgle.com
+2020-01-20 15:25:19.448267 -- Succeed with latency of [0.606032] to perform HTTP connectivity with GET request to www.yahoo.com
+2020-01-20 15:25:22.688594 -- Failed to perform HTTPS connectivity with GET request to www.chen.com

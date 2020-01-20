@@ -9,13 +9,13 @@ class DNSConnectivity(Test):
     def set_success(self, success):
         self.success = success
 
-    def run(self):
+    def run(self, dry_mode = False):
         try:
-            result = socket.gethostbyname(self.address)
+            socket.gethostbyname(self.address)
             self.set_success(True)
         except socket.gaierror:
             self.set_success(False)
-        self.log()
+        self.log(dry_mode)
 
     def log_message(self):
         result = "Succeed " if self.success else "Failed "
