@@ -1,14 +1,17 @@
+Python interpreter - 3.8
+
 Before running this tool please run the following commands:
 $ pip install requests
 
-For running the tool please run main.py file. Please make sure your configuration files contains the tests you want to
-run.
+For running the tool please run python3 venv/app/main.py file.
 
+Please make sure your configuration files contains the tests you want torun.
+
+----------------------------------------------------------------------------------------------------------
 Configuration file should be in the following format, when the supported types are DNS_CONNECTIVITY,
 HTTP_CONNECTIVITY and HTTPS_CONNECTIVITY. Each test type dosn't have to appear / an appear multiple times in the
 tests array.
 
------------------------------------------
 {
   "tests": [
     {
@@ -36,4 +39,4 @@ tests array.
   ]
 }
 
---------------------------------------------
+-----------------------------------------------------------------------------------

@@ -7,11 +7,14 @@ TESTS_KEY = "tests"
 NAME_KEY = "name"
 PROPERTIES_KEY = "properties"
 
+# This class is responsible for parsing the configurations
+# file and extracting tests objects that are able to be ran.
 class TestsParser:
     def __init__(self):
         raw_tests = self.extract_tests_from_configurations()
         self.tests = self.create_tests(raw_tests)
 
+    # tests getter
     def get_serialized_tests(self):
         return self.tests
 
@@ -37,9 +40,11 @@ class TestsParser:
     def create_tests(self, raw_tests):
         tests_objects = []
         for raw_test in raw_tests:
-            current_test = self.create_single_test(raw_test)
-            tests_objects.append(current_test)
-
+            try:
+                current_test = self.create_single_test(raw_test)
+                tests_objects.append(current_test)
+            except NameError as e:
+                print("Failed to load test with the following error: " + str(e))
         return tests_objects
 
     def create_single_test(self, test):

@@ -1,1 +1,0 @@
-2020-01-21 09:37:23.155044 -- Succeeded with latency of [0.339674] to perform HTTPS connectivity with GET request to www.google.com

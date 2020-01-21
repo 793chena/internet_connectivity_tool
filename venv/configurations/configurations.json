@@ -3,7 +3,7 @@
     {
       "name": "DNS_CONNECTIVITY",
       "properties": {
-        "address": "www.googasdfasdfle.com"
+        "address": "www.google.com"
       }
     },
     {
@@ -18,7 +18,7 @@
       "name": "HTTPS_CONNECTIVITY",
       "properties": {
         "method": "GET",
-        "address": "www.facebook.com",
+        "address": "www.google.com",
         "params": null
       }
     }

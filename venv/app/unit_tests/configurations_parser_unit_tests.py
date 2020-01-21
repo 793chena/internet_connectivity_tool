@@ -4,7 +4,10 @@ from app.tests.dns_connectivity import DNSConnectivity
 from app.tests.http_connectivity import HTTPConnectivity
 from app.tests.https_connectivity import HTTPSConnectivity
 
-class TestSuccessfulHTTPSConnectivity(unittest.TestCase):
+# This class tests the functionality of the tests parser -
+# we want to make sure that according to a specific jaon
+# configurations we get the correct test objects.
+class TestConfigurationsParser(unittest.TestCase):
     def setUp(self):
         self.address = 'www.' + UnitTestsHelpers.random_string() + '.com'
 

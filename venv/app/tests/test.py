@@ -1,6 +1,8 @@
 from abc import ABC, abstractmethod
 from datetime import datetime
 
+# Gereral test abstract class - we want to force all tests to contain
+# run operations log message for the program's output.
 class Test(ABC):
     @abstractmethod
     def run(self):

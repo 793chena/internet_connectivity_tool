@@ -12,4 +12,4 @@ class TestFactory:
         elif type == HTTPS_CONNECTIVITY:
             return HTTPSConnectivity(properties["address"], properties["method"], properties["params"])
         else:
-            raise NameError('Test type not found')
+            raise NameError('Test type not supported: ' + type)
