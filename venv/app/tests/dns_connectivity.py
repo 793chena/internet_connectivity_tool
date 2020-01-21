@@ -9,16 +9,16 @@ class DNSConnectivity(Test):
     def set_success(self, success):
         self.success = success
 
-    def run(self, dry_mode = False):
+    def run(self):
         try:
             socket.gethostbyname(self.address)
-            self.set_success(True)
-        except socket.gaierror:
+            self.set_success(True) #?!?!!?!!?!?!
+        except socket.gaierror: #make sure!!!
             self.set_success(False)
-        self.log(dry_mode)
+        self.log()
 
     def log_message(self):
-        result = "Succeed " if self.success else "Failed "
+        result = "Succeeded " if self.success else "Failed "
         result += "to perform DNS lookup to " + self.address
 
         return result

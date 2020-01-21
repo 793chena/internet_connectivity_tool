@@ -2,6 +2,7 @@ from .test import Test
 import requests
 from abc import abstractmethod
 
+#todo naming
 class InternetRequests(Test):
     def __init__(self, address, method, params):
         self.address = address
@@ -20,7 +21,7 @@ class InternetRequests(Test):
         return requests.get(url=url, params=self.params).elapsed.total_seconds()
 
     @abstractmethod
-    def run(self, dry_mode = False):
+    def run(self):
         pass
 
     @abstractmethod

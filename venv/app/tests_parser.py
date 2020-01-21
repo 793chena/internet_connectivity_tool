@@ -1,6 +1,6 @@
 from os import path
 import json
-from tests.test_factory import TestFactory
+from app.tests.test_factory import TestFactory
 
 CONFIGURATIONS_PATH = 'configurations/configurations.json'
 TESTS_KEY = "tests"
@@ -31,11 +31,13 @@ class TestsParser:
 
     def create_tests(self, raw_tests):
         tests_objects = []
-        for test in raw_tests:
-            current_test = self.create_test(test)
+        for raw_test in raw_tests:
+            current_test = self.create_test(raw_test)
             tests_objects.append(current_test)
 
         return tests_objects
 
+    #create single test
     def create_test(self, test):
-        return TestFactory.create_test(test["name"], test["properties"])
+        #catch the exception?
+        return TestFactory.create_test(test["name"], test["properties"]) #consts?
