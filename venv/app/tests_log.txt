@@ -131,3 +131,21 @@
 2020-01-21 10:00:51.011516 -- Failed to perform DNS lookup to www.googasdfasdfle.com
 2020-01-21 10:00:52.027407 -- Succeeded with latency of [0.483025] to perform HTTP connectivity with GET request to www.yahoo.com with params: {'lan': 'chen'}
 2020-01-21 10:00:52.481525 -- Succeeded with latency of [0.332781] to perform HTTPS connectivity with GET request to www.facebook.com
+2020-01-21 10:04:22.269882 -- Failed to perform DNS lookup to www.googasdfasdfle.com
+2020-01-21 10:04:23.343475 -- Succeeded with latency of [0.545269] to perform HTTP connectivity with GET request to www.yahoo.com with params: {'lan': 'chen'}
+2020-01-21 10:04:23.749907 -- Succeeded with latency of [0.321945] to perform HTTPS connectivity with GET request to www.facebook.com
+2020-01-21 10:09:37.234877 -- Failed to perform DNS lookup to www.googasdfasdfle.com
+2020-01-21 10:09:38.345847 -- Succeeded with latency of [0.539616] to perform HTTP connectivity with GET request to www.yahoo.com with params: {'lan': 'chen'}
+2020-01-21 10:09:38.789478 -- Succeeded with latency of [0.334934] to perform HTTPS connectivity with GET request to www.facebook.com
+2020-01-21 10:11:05.192401 -- Failed to perform DNS lookup to www.googasdfasdfle.com
+2020-01-21 10:11:06.281872 -- Succeeded with latency of [0.534101] to perform HTTP connectivity with GET request to www.yahoo.com with params: {'lan': 'chen'}
+2020-01-21 10:11:06.744870 -- Succeeded with latency of [0.335617] to perform HTTPS connectivity with GET request to www.facebook.com
+2020-01-21 10:11:52.965682 -- Failed to perform DNS lookup to www.googasdfasdfle.com
+2020-01-21 10:11:54.108688 -- Succeeded with latency of [0.607811] to perform HTTP connectivity with GET request to www.yahoo.com with params: {'lan': 'chen'}
+2020-01-21 10:11:54.472347 -- Succeeded with latency of [0.294306] to perform HTTPS connectivity with GET request to www.facebook.com
+2020-01-21 10:12:09.345897 -- Failed to perform DNS lookup to www.googasdfasdfle.com
+2020-01-21 10:12:10.339190 -- Succeeded with latency of [0.491298] to perform HTTP connectivity with GET request to www.yahoo.com with params: {'lan': 'chen'}
+2020-01-21 10:12:10.843110 -- Succeeded with latency of [0.350988] to perform HTTPS connectivity with GET request to www.facebook.com
+2020-01-21 10:13:05.110592 -- Failed to perform DNS lookup to www.googasdfasdfle.com
+2020-01-21 10:13:06.363916 -- Succeeded with latency of [0.647171] to perform HTTP connectivity with GET request to www.yahoo.com with params: {'lan': 'chen'}
+2020-01-21 10:13:06.978178 -- Succeeded with latency of [0.506244] to perform HTTPS connectivity with GET request to www.facebook.com

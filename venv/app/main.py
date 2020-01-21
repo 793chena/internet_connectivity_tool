@@ -2,7 +2,7 @@ from tests_parser import TestsParser
 
 def main():
     tests_parser = TestsParser()
-    tests = tests_parser.serialized_tests()
+    tests = tests_parser.get_serialized_tests()
     for test in tests:
         try:
             test.run()

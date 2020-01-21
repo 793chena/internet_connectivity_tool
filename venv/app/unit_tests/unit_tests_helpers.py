@@ -20,6 +20,6 @@ class UnitTestsHelpers:
         configuratins_file.write(configurations)
         configuratins_file.close()
         test_parser = TestsParser()
-        tests = test_parser.serialized_tests()
+        tests = test_parser.get_serialized_tests()
 
         return tests
