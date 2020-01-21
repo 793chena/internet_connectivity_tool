@@ -1,0 +1,52 @@
+{
+  "tests": [
+    {
+      "name": "DNS_CONNECTIVITY",
+      "properties": {
+        "address": "www.google.com"
+      }
+    },
+    {
+      "name": "DNS_CONNECTIVITY",
+      "properties": {
+        "address": "www.googasdfasdfle.com"
+      }
+    },
+    {
+      "name": "HTTP_CONNECTIVITY",
+      "properties": {
+        "method": "GET",
+        "address": "www.facebook.com",
+        "params": {"lan":  "chen"},
+        "accepted_latency_threashold": 5
+      }
+    },
+    {
+      "name": "HTTP_CONNECTIVITY",
+      "properties": {
+        "method": "GET",
+        "address": "www.yasdfasdfahoo.com",
+        "params": {"hey":  "chen"},
+        "accepted_latency_threashold": 5
+      }
+    },
+    {
+      "name": "HTTPS_CONNECTIVITY",
+      "properties": {
+        "method": "GET",
+        "address": "www.chen.com",
+        "params": null,
+        "accepted_latency_threashold": 5
+      }
+    },
+    {
+      "name": "HTTPS_CONNECTIVITY",
+      "properties": {
+        "method": "GET",
+        "address": "www.facebook.com",
+        "params": null,
+        "accepted_latency_threashold": 5
+      }
+    }
+  ]
+}
