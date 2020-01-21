@@ -3,7 +3,7 @@ Python interpreter - 3.8
 Before running this tool please run the following commands:
 $ pip install requests
 
-For running the tool please run python3 venv/app/main.py file.
+For running the tool please execute python3 venv/app/main.py file.
 
 Please make sure your configuration files contains the tests you want torun.
 
