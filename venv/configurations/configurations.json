@@ -7,6 +7,12 @@
       }
     },
     {
+      "name": "DNS_CONNECTIVITY",
+      "properties": {
+        "address": "www.googasdfasdfle.com"
+      }
+    },
+    {
       "name": "HTTP_CONNECTIVITY",
       "properties": {
         "method": "GET",
@@ -15,10 +21,26 @@
       }
     },
     {
+      "name": "HTTP_CONNECTIVITY",
+      "properties": {
+        "method": "GET",
+        "address": "www.yasdfasdfahoo.com",
+        "params": {"hey":  "chen"}
+      }
+    },
+    {
       "name": "HTTPS_CONNECTIVITY",
       "properties": {
         "method": "GET",
-        "address": "www.google.com",
+        "address": "www.chen.com",
+        "params": null
+      }
+    },
+    {
+      "name": "HTTPS_CONNECTIVITY",
+      "properties": {
+        "method": "GET",
+        "address": "www.ynet.co.il",
         "params": null
       }
     }

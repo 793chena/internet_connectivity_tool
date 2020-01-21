@@ -154,3 +154,9 @@
 2020-01-21 10:46:01.365005 -- Succeeded to perform DNS lookup to www.google.com
 2020-01-21 10:46:02.407635 -- Succeeded with latency of [0.562679] to perform HTTP connectivity with GET request to www.yahoo.com with params: {'lan': 'chen'}
 2020-01-21 10:46:03.085608 -- Succeeded with latency of [0.672177] to perform HTTPS connectivity with GET request to www.google.com
+2020-01-21 10:48:42.340560 -- Succeeded to perform DNS lookup to www.google.com
+2020-01-21 10:48:42.355619 -- Failed to perform DNS lookup to www.googasdfasdfle.com
+2020-01-21 10:48:43.436228 -- Succeeded with latency of [0.586171] to perform HTTP connectivity with GET request to www.yahoo.com with params: {'lan': 'chen'}
+2020-01-21 10:48:43.457156 -- Failed to perform HTTP connectivity with GET request to www.yasdfasdfahoo.com with params: {'hey': 'chen'}
+2020-01-21 10:48:46.476068 -- Failed to perform HTTPS connectivity with GET request to www.chen.com
+2020-01-21 10:48:46.814936 -- Succeeded with latency of [0.035546] to perform HTTPS connectivity with GET request to www.ynet.co.il
