@@ -160,3 +160,342 @@
 2020-01-21 10:48:43.457156 -- Failed to perform HTTP connectivity with GET request to www.yasdfasdfahoo.com with params: {'hey': 'chen'}
 2020-01-21 10:48:46.476068 -- Failed to perform HTTPS connectivity with GET request to www.chen.com
 2020-01-21 10:48:46.814936 -- Succeeded with latency of [0.035546] to perform HTTPS connectivity with GET request to www.ynet.co.il
+2020-01-21 11:16:16.520558 -- Succeeded to perform DNS lookup to www.google.com
+2020-01-21 11:16:16.539533 -- Failed to perform DNS lookup to www.googasdfasdfle.com
+2020-01-21 11:16:20.978083 -- Failed to perform HTTPS connectivity with GET request to www.chen.com
+2020-01-21 11:16:21.157591 -- Succeeded with latency of [0.020538] to perform HTTPS connectivity with GET request to www.ynet.co.il
+2020-01-21 11:16:31.592689 -- Succeeded to perform DNS lookup to www.google.com
+2020-01-21 11:16:31.606821 -- Failed to perform DNS lookup to www.googasdfasdfle.com
+2020-01-21 11:16:35.749756 -- Failed to perform HTTPS connectivity with GET request to www.chen.com
+2020-01-21 11:16:35.905657 -- Succeeded with latency of [0.016817] to perform HTTPS connectivity with GET request to www.ynet.co.il
+2020-01-21 11:16:48.498984 -- Succeeded to perform DNS lookup to www.google.com
+2020-01-21 11:16:48.516087 -- Failed to perform DNS lookup to www.googasdfasdfle.com
+2020-01-21 11:16:49.600875 -- Succeeded with latency of [0.54815] to perform HTTP connectivity with GET request to www.yahoo.com with params: {'lan': 'chen'}
+2020-01-21 11:16:49.620958 -- Failed to perform HTTP connectivity with GET request to www.yasdfasdfahoo.com with params: {'hey': 'chen'}
+2020-01-21 11:16:52.683221 -- Failed to perform HTTPS connectivity with GET request to www.chen.com
+2020-01-21 11:16:52.866551 -- Succeeded with latency of [0.018991] to perform HTTPS connectivity with GET request to www.ynet.co.il
+2020-01-21 11:17:27.779073 -- Succeeded to perform DNS lookup to www.google.com
+2020-01-21 11:17:27.792043 -- Failed to perform DNS lookup to www.googasdfasdfle.com
+2020-01-21 11:17:31.882265 -- Failed to perform HTTPS connectivity with GET request to www.chen.com
+2020-01-21 11:17:32.010654 -- Succeeded with latency of [0.017594] to perform HTTPS connectivity with GET request to www.ynet.co.il
+2020-01-21 11:17:39.366218 -- Succeeded to perform DNS lookup to www.google.com
+2020-01-21 11:17:39.379555 -- Failed to perform DNS lookup to www.googasdfasdfle.com
+2020-01-21 11:17:40.410688 -- Succeeded with latency of [0.510051] to perform HTTP connectivity with GET request to www.yahoo.com with params: {'lan': 'chen'}
+2020-01-21 11:17:40.426838 -- Failed to perform HTTP connectivity with GET request to www.yasdfasdfahoo.com with params: {'hey': 'chen'}
+2020-01-21 11:17:43.474982 -- Failed to perform HTTPS connectivity with GET request to www.chen.com
+2020-01-21 11:17:43.579855 -- Succeeded with latency of [0.018145] to perform HTTPS connectivity with GET request to www.ynet.co.il
+2020-01-21 11:17:51.847261 -- Succeeded to perform DNS lookup to www.google.com
+2020-01-21 11:17:51.879817 -- Failed to perform DNS lookup to www.googasdfasdfle.com
+2020-01-21 11:17:55.931468 -- Failed to perform HTTPS connectivity with GET request to www.chen.com
+2020-01-21 11:17:56.058407 -- Succeeded with latency of [0.018454] to perform HTTPS connectivity with GET request to www.ynet.co.il
+2020-01-21 11:19:32.488139 -- Succeeded to perform DNS lookup to www.google.com
+2020-01-21 11:19:32.507130 -- Failed to perform DNS lookup to www.googasdfasdfle.com
+2020-01-21 11:19:36.692129 -- Failed to perform HTTPS connectivity with GET request to www.chen.com
+2020-01-21 11:19:36.835839 -- Succeeded with latency of [0.019072] to perform HTTPS connectivity with GET request to www.ynet.co.il
+2020-01-21 11:27:57.597594 -- Succeeded to perform DNS lookup to www.google.com
+2020-01-21 11:27:57.620619 -- Failed to perform DNS lookup to www.googasdfasdfle.com
+2020-01-21 11:27:58.610985 -- Failed to perform HTTP connectivity with GET request to www.yasdfasdfahoo.com with params: {'hey': 'chen'}
+2020-01-21 11:28:01.677327 -- Failed to perform HTTPS connectivity with GET request to www.chen.com
+2020-01-21 11:28:21.412686 -- Succeeded to perform DNS lookup to www.google.com
+2020-01-21 11:28:21.425591 -- Failed to perform DNS lookup to www.googasdfasdfle.com
+2020-01-21 11:28:22.621470 -- Failed to perform HTTP connectivity with GET request to www.yasdfasdfahoo.com with params: {'hey': 'chen'}
+2020-01-21 11:28:25.666504 -- Failed to perform HTTPS connectivity with GET request to www.chen.com
+2020-01-21 11:28:34.203616 -- Succeeded to perform DNS lookup to www.google.com
+2020-01-21 11:28:34.240998 -- Failed to perform DNS lookup to www.googasdfasdfle.com
+2020-01-21 11:28:35.344011 -- Failed to perform HTTP connectivity with GET request to www.yasdfasdfahoo.com with params: {'hey': 'chen'}
+2020-01-21 11:28:38.410696 -- Failed to perform HTTPS connectivity with GET request to www.chen.com
+2020-01-21 11:28:49.267448 -- Succeeded to perform DNS lookup to www.google.com
+2020-01-21 11:28:49.279749 -- Failed to perform DNS lookup to www.googasdfasdfle.com
+2020-01-21 11:28:50.288217 -- Failed to perform HTTP connectivity with GET request to www.yasdfasdfahoo.com with params: {'hey': 'chen'}
+2020-01-21 11:28:53.327624 -- Failed to perform HTTPS connectivity with GET request to www.chen.com
+2020-01-21 11:29:03.928091 -- Succeeded to perform DNS lookup to www.google.com
+2020-01-21 11:29:03.941703 -- Failed to perform DNS lookup to www.googasdfasdfle.com
+2020-01-21 11:29:05.029662 -- Failed to perform HTTP connectivity with GET request to www.yasdfasdfahoo.com with params: {'hey': 'chen'}
+2020-01-21 11:29:08.094433 -- Failed to perform HTTPS connectivity with GET request to www.chen.com
+2020-01-21 11:29:42.381640 -- Succeeded to perform DNS lookup to www.google.com
+2020-01-21 11:29:42.395945 -- Failed to perform DNS lookup to www.googasdfasdfle.com
+2020-01-21 11:29:43.550031 -- Failed to perform HTTP connectivity with GET request to www.yasdfasdfahoo.com with params: {'hey': 'chen'}
+2020-01-21 11:29:46.619896 -- Failed to perform HTTPS connectivity with GET request to www.chen.com
+2020-01-21 11:29:52.448088 -- Succeeded to perform DNS lookup to www.google.com
+2020-01-21 11:29:52.463370 -- Failed to perform DNS lookup to www.googasdfasdfle.com
+2020-01-21 11:29:53.520443 -- Failed to perform HTTP connectivity with GET request to www.yasdfasdfahoo.com with params: {'hey': 'chen'}
+2020-01-21 11:29:56.582579 -- Failed to perform HTTPS connectivity with GET request to www.chen.com
+2020-01-21 11:29:56.725906 -- Succeeded with latency of [0.027979] to perform HTTPS connectivity with GET request to www.ynet.co.il
+2020-01-21 11:30:24.680235 -- Succeeded to perform DNS lookup to www.google.com
+2020-01-21 11:30:24.693310 -- Failed to perform DNS lookup to www.googasdfasdfle.com
+2020-01-21 11:30:25.868166 -- Failed to perform HTTP connectivity with GET request to www.yasdfasdfahoo.com with params: {'hey': 'chen'}
+2020-01-21 11:30:28.899536 -- Failed to perform HTTPS connectivity with GET request to www.chen.com
+2020-01-21 11:30:29.038146 -- Succeeded with latency of [0.018525] to perform HTTPS connectivity with GET request to www.ynet.co.il
+2020-01-21 11:32:18.294768 -- Succeeded to perform DNS lookup to www.google.com
+2020-01-21 11:32:18.309168 -- Failed to perform DNS lookup to www.googasdfasdfle.com
+2020-01-21 11:32:19.394448 -- Failed to perform HTTP connectivity with GET request to www.yasdfasdfahoo.com with params: {'hey': 'chen'}
+2020-01-21 11:32:22.451326 -- Failed to perform HTTPS connectivity with GET request to www.chen.com
+2020-01-21 11:32:22.579811 -- Succeeded with latency of [0.018532] to perform HTTPS connectivity with GET request to www.ynet.co.il
+2020-01-21 11:33:08.594469 -- Succeeded to perform DNS lookup to www.google.com
+2020-01-21 11:33:19.636824 -- Failed to perform DNS lookup to www.googasdfasdfle.com
+2020-01-21 11:33:21.825705 -- Succeeded to perform DNS lookup to www.google.com
+2020-01-21 11:33:32.855683 -- Failed to perform DNS lookup to www.googasdfasdfle.com
+2020-01-21 11:33:32.864648 -- Failed to perform HTTP connectivity with GET request to www.yahoo.com with params: {'lan': 'chen'}
+2020-01-21 11:33:32.867638 -- Failed to perform HTTP connectivity with GET request to www.yasdfasdfahoo.com with params: {'hey': 'chen'}
+2020-01-21 11:33:40.800209 -- Failed to perform HTTPS connectivity with GET request to www.chen.com
+2020-01-21 11:33:40.922392 -- Succeeded with latency of [0.017136] to perform HTTPS connectivity with GET request to www.ynet.co.il
+2020-01-21 11:34:07.405883 -- Succeeded to perform DNS lookup to www.google.com
+2020-01-21 11:34:07.419090 -- Failed to perform DNS lookup to www.googasdfasdfle.com
+2020-01-21 11:34:08.460046 -- Failed to perform HTTP connectivity with GET request to www.yasdfasdfahoo.com with params: {'hey': 'chen'}
+2020-01-21 11:34:11.520985 -- Failed to perform HTTPS connectivity with GET request to www.chen.com
+2020-01-21 11:34:11.653272 -- Succeeded with latency of [0.017043] to perform HTTPS connectivity with GET request to www.ynet.co.il
+2020-01-21 11:34:21.551674 -- Succeeded to perform DNS lookup to www.google.com
+2020-01-21 11:34:21.564799 -- Failed to perform DNS lookup to www.googasdfasdfle.com
+2020-01-21 11:34:22.730878 -- Succeeded with latency of [0.489408] to perform HTTP connectivity with GET request to www.yahoo.com
+2020-01-21 11:34:22.747061 -- Failed to perform HTTP connectivity with GET request to www.yasdfasdfahoo.com with params: {'hey': 'chen'}
+2020-01-21 11:34:25.814608 -- Failed to perform HTTPS connectivity with GET request to www.chen.com
+2020-01-21 11:34:25.934498 -- Succeeded with latency of [0.016719] to perform HTTPS connectivity with GET request to www.ynet.co.il
+2020-01-21 11:34:56.531909 -- Succeeded to perform DNS lookup to www.google.com
+2020-01-21 11:34:56.546927 -- Failed to perform DNS lookup to www.googasdfasdfle.com
+2020-01-21 11:34:57.841882 -- Succeeded with latency of [0.674526] to perform HTTP connectivity with GET request to www.yahoo.com
+2020-01-21 11:34:57.857099 -- Failed to perform HTTP connectivity with GET request to www.yasdfasdfahoo.com with params: {'hey': 'chen'}
+2020-01-21 11:35:00.863550 -- Failed to perform HTTPS connectivity with GET request to www.chen.com
+2020-01-21 11:35:00.991808 -- Succeeded with latency of [0.017431] to perform HTTPS connectivity with GET request to www.ynet.co.il
+2020-01-21 11:35:03.715395 -- Succeeded to perform DNS lookup to www.google.com
+2020-01-21 11:35:03.734563 -- Failed to perform DNS lookup to www.googasdfasdfle.com
+2020-01-21 11:35:04.943795 -- Succeeded with latency of [0.631893] to perform HTTP connectivity with GET request to www.yahoo.com
+2020-01-21 11:35:04.959900 -- Failed to perform HTTP connectivity with GET request to www.yasdfasdfahoo.com with params: {'hey': 'chen'}
+2020-01-21 11:35:08.005515 -- Failed to perform HTTPS connectivity with GET request to www.chen.com
+2020-01-21 11:35:08.147905 -- Succeeded with latency of [0.026067] to perform HTTPS connectivity with GET request to www.ynet.co.il
+2020-01-21 11:37:05.287350 -- Succeeded to perform DNS lookup to www.google.com
+2020-01-21 11:37:05.306522 -- Failed to perform DNS lookup to www.googasdfasdfle.com
+2020-01-21 11:37:06.490946 -- Succeeded with latency of [0.57359] to perform HTTP connectivity with GET request to www.yahoo.com
+2020-01-21 11:37:06.508066 -- Failed to perform HTTP connectivity with GET request to www.yasdfasdfahoo.com with params: {'hey': 'chen'}
+2020-01-21 11:37:09.558748 -- Failed to perform HTTPS connectivity with GET request to www.chen.com
+2020-01-21 11:37:09.684341 -- Succeeded with latency of [0.019546] to perform HTTPS connectivity with GET request to www.ynet.co.il
+2020-01-21 11:37:11.782228 -- Succeeded to perform DNS lookup to www.google.com
+2020-01-21 11:37:11.796556 -- Failed to perform DNS lookup to www.googasdfasdfle.com
+2020-01-21 11:37:12.976331 -- Succeeded with latency of [0.583182] to perform HTTP connectivity with GET request to www.yahoo.com
+2020-01-21 11:37:12.992278 -- Failed to perform HTTP connectivity with GET request to www.yasdfasdfahoo.com with params: {'hey': 'chen'}
+2020-01-21 11:37:16.015155 -- Failed to perform HTTPS connectivity with GET request to www.chen.com
+2020-01-21 11:37:16.150284 -- Succeeded with latency of [0.017368] to perform HTTPS connectivity with GET request to www.ynet.co.il
+2020-01-21 12:05:49.396802 -- Succeeded to perform DNS lookup to www.google.com
+2020-01-21 12:05:49.414141 -- Failed to perform DNS lookup to www.googasdfasdfle.com
+2020-01-21 12:05:50.528861 -- Failed to perform HTTP connectivity with GET request to www.yasdfasdfahoo.com with params: {'hey': 'chen'}
+2020-01-21 12:05:53.663081 -- Failed to perform HTTPS connectivity with GET request to www.chen.com
+2020-01-21 12:07:02.177014 -- Succeeded to perform DNS lookup to www.google.com
+2020-01-21 12:07:02.195169 -- Failed to perform DNS lookup to www.googasdfasdfle.com
+2020-01-21 12:07:03.233258 -- Failed to perform HTTP connectivity with GET request to www.yasdfasdfahoo.com with params: {'hey': 'chen'}
+2020-01-21 12:07:06.307186 -- Failed to perform HTTPS connectivity with GET request to www.chen.com
+2020-01-21 12:07:28.998878 -- Succeeded to perform DNS lookup to www.google.com
+2020-01-21 12:07:29.016817 -- Failed to perform DNS lookup to www.googasdfasdfle.com
+2020-01-21 12:07:30.089760 -- Failed to perform HTTP connectivity with GET request to www.yasdfasdfahoo.com with params: {'hey': 'chen'}
+2020-01-21 12:07:33.144647 -- Failed to perform HTTPS connectivity with GET request to www.chen.com
+2020-01-21 12:07:51.395300 -- Succeeded to perform DNS lookup to www.google.com
+2020-01-21 12:07:51.409267 -- Failed to perform DNS lookup to www.googasdfasdfle.com
+2020-01-21 12:07:52.541628 -- Failed to perform HTTP connectivity with GET request to www.yasdfasdfahoo.com with params: {'hey': 'chen'}
+2020-01-21 12:07:55.602019 -- Failed to perform HTTPS connectivity with GET request to www.chen.com
+2020-01-21 12:08:03.969949 -- Succeeded to perform DNS lookup to www.google.com
+2020-01-21 12:08:03.983043 -- Failed to perform DNS lookup to www.googasdfasdfle.com
+2020-01-21 12:08:05.087485 -- Failed to perform HTTP connectivity with GET request to www.yasdfasdfahoo.com with params: {'hey': 'chen'}
+2020-01-21 12:08:08.148322 -- Failed to perform HTTPS connectivity with GET request to www.chen.com
+2020-01-21 12:08:33.979917 -- Succeeded to perform DNS lookup to www.google.com
+2020-01-21 12:08:33.996982 -- Failed to perform DNS lookup to www.googasdfasdfle.com
+2020-01-21 12:08:35.019285 -- Failed to perform HTTP connectivity with GET request to www.yasdfasdfahoo.com with params: {'hey': 'chen'}
+2020-01-21 12:08:38.067672 -- Failed to perform HTTPS connectivity with GET request to www.chen.com
+2020-01-21 12:08:50.637376 -- Succeeded to perform DNS lookup to www.google.com
+2020-01-21 12:08:50.650592 -- Failed to perform DNS lookup to www.googasdfasdfle.com
+2020-01-21 12:08:51.675035 -- Failed to perform HTTP connectivity with GET request to www.yasdfasdfahoo.com with params: {'hey': 'chen'}
+2020-01-21 12:08:54.726593 -- Failed to perform HTTPS connectivity with GET request to www.chen.com
+2020-01-21 12:09:24.321272 -- Succeeded to perform DNS lookup to www.google.com
+2020-01-21 12:09:24.337399 -- Failed to perform DNS lookup to www.googasdfasdfle.com
+2020-01-21 12:09:25.315333 -- Failed to perform HTTP connectivity with GET request to www.yasdfasdfahoo.com with params: {'hey': 'chen'}
+2020-01-21 12:09:28.366739 -- Failed to perform HTTPS connectivity with GET request to www.chen.com
+2020-01-21 12:09:39.686438 -- Succeeded to perform DNS lookup to www.google.com
+2020-01-21 12:09:39.700441 -- Failed to perform DNS lookup to www.googasdfasdfle.com
+2020-01-21 12:09:40.945388 -- Failed to perform HTTP connectivity with GET request to www.yasdfasdfahoo.com with params: {'hey': 'chen'}
+2020-01-21 12:09:43.984714 -- Failed to perform HTTPS connectivity with GET request to www.chen.com
+2020-01-21 12:10:07.892024 -- Succeeded to perform DNS lookup to www.google.com
+2020-01-21 12:10:07.906525 -- Failed to perform DNS lookup to www.googasdfasdfle.com
+2020-01-21 12:10:08.974238 -- Failed to perform HTTP connectivity with GET request to www.yasdfasdfahoo.com with params: {'hey': 'chen'}
+2020-01-21 12:10:12.054503 -- Failed to perform HTTPS connectivity with GET request to www.chen.com
+2020-01-21 12:10:13.620332 -- Succeeded to perform DNS lookup to www.google.com
+2020-01-21 12:10:13.633515 -- Failed to perform DNS lookup to www.googasdfasdfle.com
+2020-01-21 12:10:14.641609 -- Succeeded with latency of [0.525966] to perform HTTP connectivity with GET request to www.yahoo.com
+2020-01-21 12:10:14.656742 -- Failed to perform HTTP connectivity with GET request to www.yasdfasdfahoo.com with params: {'hey': 'chen'}
+2020-01-21 12:10:17.727590 -- Failed to perform HTTPS connectivity with GET request to www.chen.com
+2020-01-21 12:10:56.888433 -- Succeeded to perform DNS lookup to www.google.com
+2020-01-21 12:10:56.904576 -- Failed to perform DNS lookup to www.googasdfasdfle.com
+2020-01-21 12:10:57.918845 -- Failed to perform HTTP connectivity with GET request to www.yasdfasdfahoo.com with params: {'hey': 'chen'}
+2020-01-21 12:11:00.983981 -- Failed to perform HTTPS connectivity with GET request to www.chen.com
+2020-01-21 12:11:42.155295 -- Succeeded to perform DNS lookup to www.google.com
+2020-01-21 12:11:42.169165 -- Failed to perform DNS lookup to www.googasdfasdfle.com
+2020-01-21 12:11:43.243240 -- Failed to perform HTTP connectivity with GET request to www.yasdfasdfahoo.com with params: {'hey': 'chen'}
+2020-01-21 12:11:46.310947 -- Failed to perform HTTPS connectivity with GET request to www.chen.com
+2020-01-21 12:12:02.160349 -- Succeeded to perform DNS lookup to www.google.com
+2020-01-21 12:12:02.173469 -- Failed to perform DNS lookup to www.googasdfasdfle.com
+2020-01-21 12:12:03.129545 -- Failed to perform HTTP connectivity with GET request to www.yasdfasdfahoo.com with params: {'hey': 'chen'}
+2020-01-21 12:12:06.194512 -- Failed to perform HTTPS connectivity with GET request to www.chen.com
+2020-01-21 12:12:18.832138 -- Succeeded to perform DNS lookup to www.google.com
+2020-01-21 12:12:18.845384 -- Failed to perform DNS lookup to www.googasdfasdfle.com
+2020-01-21 12:12:19.893812 -- Failed to perform HTTP connectivity with GET request to www.yasdfasdfahoo.com with params: {'hey': 'chen'}
+2020-01-21 12:12:22.960044 -- Failed to perform HTTPS connectivity with GET request to www.chen.com
+2020-01-21 12:12:33.041292 -- Succeeded to perform DNS lookup to www.google.com
+2020-01-21 12:12:33.054542 -- Failed to perform DNS lookup to www.googasdfasdfle.com
+2020-01-21 12:12:34.170310 -- Failed to perform HTTP connectivity with GET request to www.yasdfasdfahoo.com with params: {'hey': 'chen'}
+2020-01-21 12:12:37.233385 -- Failed to perform HTTPS connectivity with GET request to www.chen.com
+2020-01-21 12:13:04.409941 -- Succeeded to perform DNS lookup to www.google.com
+2020-01-21 12:13:04.423230 -- Failed to perform DNS lookup to www.googasdfasdfle.com
+2020-01-21 12:13:05.431956 -- Failed to perform HTTP connectivity with GET request to www.yasdfasdfahoo.com with params: {'hey': 'chen'}
+2020-01-21 12:13:08.473496 -- Failed to perform HTTPS connectivity with GET request to www.chen.com
+2020-01-21 12:13:33.125216 -- Succeeded to perform DNS lookup to www.google.com
+2020-01-21 12:13:33.137079 -- Failed to perform DNS lookup to www.googasdfasdfle.com
+2020-01-21 12:13:34.183360 -- Failed to perform HTTP connectivity with GET request to www.yasdfasdfahoo.com with params: {'hey': 'chen'}
+2020-01-21 12:13:37.239174 -- Failed to perform HTTPS connectivity with GET request to www.chen.com
+2020-01-21 12:14:59.022292 -- Succeeded to perform DNS lookup to www.google.com
+2020-01-21 12:14:59.036168 -- Failed to perform DNS lookup to www.googasdfasdfle.com
+2020-01-21 12:15:00.045754 -- Failed to perform HTTP connectivity with GET request to www.yasdfasdfahoo.com with params: {'hey': 'chen'}
+2020-01-21 12:15:03.108878 -- Failed to perform HTTPS connectivity with GET request to www.chen.com
+2020-01-21 12:15:56.416319 -- Succeeded to perform DNS lookup to www.google.com
+2020-01-21 12:15:56.428467 -- Failed to perform DNS lookup to www.googasdfasdfle.com
+2020-01-21 12:15:57.509014 -- Failed to perform HTTP connectivity with GET request to www.yasdfasdfahoo.com with params: {'hey': 'chen'}
+2020-01-21 12:16:00.621282 -- Failed to perform HTTPS connectivity with GET request to www.chen.com
+2020-01-21 12:16:08.305354 -- Succeeded to perform DNS lookup to www.google.com
+2020-01-21 12:16:08.317324 -- Failed to perform DNS lookup to www.googasdfasdfle.com
+2020-01-21 12:16:09.370681 -- Failed to perform HTTP connectivity with GET request to www.yasdfasdfahoo.com with params: {'hey': 'chen'}
+2020-01-21 12:16:12.395201 -- Failed to perform HTTPS connectivity with GET request to www.chen.com
+2020-01-21 12:16:24.163696 -- Succeeded to perform DNS lookup to www.google.com
+2020-01-21 12:16:24.178693 -- Failed to perform DNS lookup to www.googasdfasdfle.com
+2020-01-21 12:16:25.207007 -- Failed to perform HTTP connectivity with GET request to www.yasdfasdfahoo.com with params: {'hey': 'chen'}
+2020-01-21 12:16:28.287435 -- Failed to perform HTTPS connectivity with GET request to www.chen.com
+2020-01-21 12:16:39.269770 -- Succeeded to perform DNS lookup to www.google.com
+2020-01-21 12:16:39.282971 -- Failed to perform DNS lookup to www.googasdfasdfle.com
+2020-01-21 12:16:40.430251 -- Failed to perform HTTP connectivity with GET request to www.yasdfasdfahoo.com with params: {'hey': 'chen'}
+2020-01-21 12:17:00.152059 -- Succeeded to perform DNS lookup to www.google.com
+2020-01-21 12:17:00.166119 -- Failed to perform DNS lookup to www.googasdfasdfle.com
+2020-01-21 12:17:01.228649 -- Failed to perform HTTP connectivity with GET request to www.yasdfasdfahoo.com with params: {'hey': 'chen'}
+2020-01-21 12:17:04.331500 -- Failed to perform HTTPS connectivity with GET request to www.chen.com
+2020-01-21 12:17:33.729488 -- Succeeded to perform DNS lookup to www.google.com
+2020-01-21 12:17:33.743739 -- Failed to perform DNS lookup to www.googasdfasdfle.com
+2020-01-21 12:17:34.826997 -- Failed to perform HTTP connectivity with GET request to www.yasdfasdfahoo.com with params: {'hey': 'chen'}
+2020-01-21 12:17:37.889945 -- Failed to perform HTTPS connectivity with GET request to www.chen.com
+2020-01-21 12:19:12.779495 -- Succeeded to perform DNS lookup to www.google.com
+2020-01-21 12:19:12.794503 -- Failed to perform DNS lookup to www.googasdfasdfle.com
+2020-01-21 12:19:13.844999 -- Failed to perform HTTP connectivity with GET request to www.yasdfasdfahoo.com with params: {'hey': 'chen'}
+2020-01-21 12:19:16.937218 -- Failed to perform HTTPS connectivity with GET request to www.chen.com
+2020-01-21 12:19:51.528103 -- Succeeded to perform DNS lookup to www.google.com
+2020-01-21 12:19:51.541413 -- Failed to perform DNS lookup to www.googasdfasdfle.com
+2020-01-21 12:19:52.543633 -- Failed to perform HTTP connectivity with GET request to www.yasdfasdfahoo.com with params: {'hey': 'chen'}
+2020-01-21 12:19:55.577904 -- Failed to perform HTTPS connectivity with GET request to www.chen.com
+2020-01-21 12:20:26.924666 -- Succeeded to perform DNS lookup to www.google.com
+2020-01-21 12:20:26.938531 -- Failed to perform DNS lookup to www.googasdfasdfle.com
+2020-01-21 12:20:28.048370 -- Failed to perform HTTP connectivity with GET request to www.yasdfasdfahoo.com with params: {'hey': 'chen'}
+2020-01-21 12:20:31.101860 -- Failed to perform HTTPS connectivity with GET request to www.chen.com
+2020-01-21 12:20:49.916005 -- Succeeded to perform DNS lookup to www.google.com
+2020-01-21 12:20:49.929987 -- Failed to perform DNS lookup to www.googasdfasdfle.com
+2020-01-21 12:20:50.935419 -- Failed to perform HTTP connectivity with GET request to www.yasdfasdfahoo.com with params: {'hey': 'chen'}
+2020-01-21 12:20:53.986327 -- Failed to perform HTTPS connectivity with GET request to www.chen.com
+2020-01-21 12:21:36.431391 -- Succeeded to perform DNS lookup to www.google.com
+2020-01-21 12:21:36.448287 -- Failed to perform DNS lookup to www.googasdfasdfle.com
+2020-01-21 12:21:37.535253 -- Failed to perform HTTP connectivity with GET request to www.yasdfasdfahoo.com with params: {'hey': 'chen'}
+2020-01-21 12:21:40.605968 -- Failed to perform HTTPS connectivity with GET request to www.chen.com
+2020-01-21 12:22:23.312588 -- Succeeded to perform DNS lookup to www.google.com
+2020-01-21 12:22:23.325733 -- Failed to perform DNS lookup to www.googasdfasdfle.com
+2020-01-21 12:22:24.348062 -- Failed to perform HTTP connectivity with GET request to www.yasdfasdfahoo.com with params: {'hey': 'chen'}
+2020-01-21 12:22:27.367680 -- Failed to perform HTTPS connectivity with GET request to www.chen.com
+2020-01-21 12:22:33.731929 -- Succeeded to perform DNS lookup to www.google.com
+2020-01-21 12:22:33.744854 -- Failed to perform DNS lookup to www.googasdfasdfle.com
+2020-01-21 12:22:34.807095 -- Failed to perform HTTP connectivity with GET request to www.yasdfasdfahoo.com with params: {'hey': 'chen'}
+2020-01-21 12:22:37.855557 -- Failed to perform HTTPS connectivity with GET request to www.chen.com
+2020-01-21 12:23:03.225505 -- Succeeded to perform DNS lookup to www.google.com
+2020-01-21 12:23:03.242952 -- Failed to perform DNS lookup to www.googasdfasdfle.com
+2020-01-21 12:23:04.298812 -- Failed to perform HTTP connectivity with GET request to www.yasdfasdfahoo.com with params: {'hey': 'chen'}
+2020-01-21 12:23:25.013855 -- Failed to perform HTTPS connectivity with GET request to www.chen.com
+2020-01-21 12:23:43.205879 -- Succeeded to perform DNS lookup to www.google.com
+2020-01-21 12:23:43.218890 -- Failed to perform DNS lookup to www.googasdfasdfle.com
+2020-01-21 12:23:44.252676 -- Failed to perform HTTP connectivity with GET request to www.yasdfasdfahoo.com with params: {'hey': 'chen'}
+2020-01-21 12:23:47.322036 -- Failed to perform HTTPS connectivity with GET request to www.chen.com
+2020-01-21 12:24:01.199351 -- Succeeded to perform DNS lookup to www.google.com
+2020-01-21 12:24:01.226492 -- Failed to perform DNS lookup to www.googasdfasdfle.com
+2020-01-21 12:24:02.235935 -- Succeeded with latency of [0.490244] to perform HTTP connectivity with GET request to www.yahoo.com
+2020-01-21 12:24:02.251075 -- Failed to perform HTTP connectivity with GET request to www.yasdfasdfahoo.com with params: {'hey': 'chen'}
+2020-01-21 12:24:05.327015 -- Failed to perform HTTPS connectivity with GET request to www.chen.com
+2020-01-21 12:24:44.238474 -- Succeeded to perform DNS lookup to www.google.com
+2020-01-21 12:24:44.251733 -- Failed to perform DNS lookup to www.googasdfasdfle.com
+2020-01-21 12:24:45.272859 -- Succeeded with latency of [0.49152] to perform HTTP connectivity with GET request to www.yahoo.com
+2020-01-21 12:24:45.292040 -- Failed to perform HTTP connectivity with GET request to www.yasdfasdfahoo.com with params: {'hey': 'chen'}
+2020-01-21 12:24:48.342730 -- Failed to perform HTTPS connectivity with GET request to www.chen.com
+2020-01-21 12:25:15.474563 -- Succeeded to perform DNS lookup to www.google.com
+2020-01-21 12:25:15.488546 -- Failed to perform DNS lookup to www.googasdfasdfle.com
+2020-01-21 12:25:16.934855 -- Succeeded with latency of [0.530538] to perform HTTP connectivity with GET request to www.yahoo.com
+2020-01-21 12:25:16.948722 -- Failed to perform HTTP connectivity with GET request to www.yasdfasdfahoo.com with params: {'hey': 'chen'}
+2020-01-21 12:25:19.959837 -- Failed to perform HTTPS connectivity with GET request to www.chen.com
+2020-01-21 12:25:31.688042 -- Succeeded to perform DNS lookup to www.google.com
+2020-01-21 12:25:31.702049 -- Failed to perform DNS lookup to www.googasdfasdfle.com
+2020-01-21 12:25:32.743069 -- Succeeded with latency of [0.521106] to perform HTTP connectivity with GET request to www.yahoo.com
+2020-01-21 12:25:32.759013 -- Failed to perform HTTP connectivity with GET request to www.yasdfasdfahoo.com with params: {'hey': 'chen'}
+2020-01-21 12:25:35.809079 -- Failed to perform HTTPS connectivity with GET request to www.chen.com
+2020-01-21 12:26:10.900911 -- Succeeded to perform DNS lookup to www.google.com
+2020-01-21 12:26:10.917859 -- Failed to perform DNS lookup to www.googasdfasdfle.com
+2020-01-21 12:26:11.933123 -- Succeeded with latency of [0.516567] to perform HTTP connectivity with GET request to www.yahoo.com
+2020-01-21 12:26:11.950157 -- Failed to perform HTTP connectivity with GET request to www.yasdfasdfahoo.com with params: {'hey': 'chen'}
+2020-01-21 12:26:15.001674 -- Failed to perform HTTPS connectivity with GET request to www.chen.com
+2020-01-21 12:26:15.121761 -- Succeeded with latency of [0.018133] to perform HTTPS connectivity with GET request to www.ynet.co.il
+2020-01-21 12:26:39.924283 -- Succeeded to perform DNS lookup to www.google.com
+2020-01-21 12:26:39.937517 -- Failed to perform DNS lookup to www.googasdfasdfle.com
+2020-01-21 12:26:41.015819 -- Succeeded with latency of [0.523664] to perform HTTP connectivity with GET request to www.yahoo.com
+2020-01-21 12:26:41.033779 -- Failed to perform HTTP connectivity with GET request to www.yasdfasdfahoo.com with params: {'hey': 'chen'}
+2020-01-21 12:26:44.097877 -- Failed to perform HTTPS connectivity with GET request to www.chen.com
+2020-01-21 12:26:44.220933 -- Succeeded with latency of [0.02092] to perform HTTPS connectivity with GET request to www.ynet.co.il
+2020-01-21 12:27:10.421282 -- Succeeded to perform DNS lookup to www.google.com
+2020-01-21 12:27:10.434652 -- Failed to perform DNS lookup to www.googasdfasdfle.com
+2020-01-21 12:27:11.448381 -- Succeeded with latency of [0.518983] to perform HTTP connectivity with GET request to www.yahoo.com
+2020-01-21 12:27:11.463349 -- Failed to perform HTTP connectivity with GET request to www.yasdfasdfahoo.com with params: {'hey': 'chen'}
+2020-01-21 12:27:14.529221 -- Failed to perform HTTPS connectivity with GET request to www.chen.com
+2020-01-21 12:27:14.704704 -- Succeeded with latency of [0.063211] to perform HTTPS connectivity with GET request to www.ynet.co.il
+2020-01-21 12:28:55.801557 -- Succeeded to perform DNS lookup to www.google.com
+2020-01-21 12:28:55.820748 -- Failed to perform DNS lookup to www.googasdfasdfle.com
+2020-01-21 12:28:56.919206 -- Succeeded with latency of [0.569364] to perform HTTP connectivity with GET request to www.yahoo.com
+2020-01-21 12:28:56.934292 -- Failed to perform HTTP connectivity with GET request to www.yasdfasdfahoo.com with params: {'hey': 'chen'}
+2020-01-21 12:29:00.003285 -- Failed to perform HTTPS connectivity with GET request to www.chen.com
+2020-01-21 12:29:00.155005 -- Succeeded with latency of [0.017017] to perform HTTPS connectivity with GET request to www.ynet.co.il
+2020-01-21 12:29:31.367184 -- Succeeded to perform DNS lookup to www.google.com
+2020-01-21 12:29:31.379504 -- Failed to perform DNS lookup to www.googasdfasdfle.com
+2020-01-21 12:29:32.369407 -- Succeeded with latency of [0.481724] to perform HTTP connectivity with GET request to www.yahoo.com
+2020-01-21 12:29:32.404828 -- Failed to perform HTTP connectivity with GET request to www.yasdfasdfahoo.com with params: {'hey': 'chen'}
+2020-01-21 12:29:35.464522 -- Failed to perform HTTPS connectivity with GET request to www.chen.com
+2020-01-21 12:29:35.588606 -- Succeeded with latency of [0.017067] to perform HTTPS connectivity with GET request to www.ynet.co.il
+2020-01-21 12:36:51.013804 -- Succeeded to perform DNS lookup to www.google.com
+2020-01-21 12:36:51.037303 -- Failed to perform DNS lookup to www.googasdfasdfle.com
+2020-01-21 12:36:52.035204 -- Failed to perform HTTP connectivity with GET request to www.yasdfasdfahoo.com with params: {'hey': 'chen'}
+2020-01-21 12:36:55.050913 -- Failed to perform HTTPS connectivity with GET request to www.chen.com
+2020-01-21 12:36:55.134265 -- Failed to perform HTTPS connectivity with GET request to www.facebook.co.il
+2020-01-21 12:37:08.601896 -- Succeeded to perform DNS lookup to www.google.com
+2020-01-21 12:37:08.628990 -- Failed to perform DNS lookup to www.googasdfasdfle.com
+2020-01-21 12:37:09.320314 -- Failed to perform HTTP connectivity with GET request to www.yasdfasdfahoo.com with params: {'hey': 'chen'}
+2020-01-21 12:37:12.407898 -- Failed to perform HTTPS connectivity with GET request to www.chen.com
+2020-01-21 12:37:38.299807 -- Succeeded to perform DNS lookup to www.google.com
+2020-01-21 12:37:38.314653 -- Failed to perform DNS lookup to www.googasdfasdfle.com
+2020-01-21 12:37:38.903687 -- Failed to perform HTTP connectivity with GET request to www.yasdfasdfahoo.com with params: {'hey': 'chen'}
+2020-01-21 12:37:41.968068 -- Failed to perform HTTPS connectivity with GET request to www.chen.com
+2020-01-21 12:37:50.977726 -- Succeeded to perform DNS lookup to www.google.com
+2020-01-21 12:37:50.998646 -- Failed to perform DNS lookup to www.googasdfasdfle.com
+2020-01-21 12:37:51.619766 -- Failed to perform HTTP connectivity with GET request to www.yasdfasdfahoo.com with params: {'hey': 'chen'}
+2020-01-21 12:37:54.660412 -- Failed to perform HTTPS connectivity with GET request to www.chen.com
+2020-01-21 12:38:48.317751 -- Succeeded to perform DNS lookup to www.google.com
+2020-01-21 12:38:48.331969 -- Failed to perform DNS lookup to www.googasdfasdfle.com
+2020-01-21 12:38:48.926174 -- Failed to perform HTTP connectivity with GET request to www.yasdfasdfahoo.com with params: {'hey': 'chen'}
+2020-01-21 12:38:51.958375 -- Failed to perform HTTPS connectivity with GET request to www.chen.com
+2020-01-21 12:39:40.390776 -- Succeeded to perform DNS lookup to www.google.com
+2020-01-21 12:39:40.404728 -- Failed to perform DNS lookup to www.googasdfasdfle.com
+2020-01-21 12:39:40.992413 -- Succeeded with latency of [0.311048] to perform HTTP connectivity with GET request to www.facebook.com with params: {'lan': 'chen'}
+2020-01-21 12:39:41.007368 -- Failed to perform HTTP connectivity with GET request to www.yasdfasdfahoo.com with params: {'hey': 'chen'}
+2020-01-21 12:39:44.057354 -- Failed to perform HTTPS connectivity with GET request to www.chen.com
+2020-01-21 12:39:44.440116 -- Succeeded with latency of [0.283462] to perform HTTPS connectivity with GET request to www.facebook.com
+2020-01-21 12:39:55.841897 -- Succeeded to perform DNS lookup to www.google.com
+2020-01-21 12:39:55.854848 -- Failed to perform DNS lookup to www.googasdfasdfle.com
+2020-01-21 12:39:56.437826 -- Succeeded with latency of [0.303948] to perform HTTP connectivity with GET request to www.facebook.com with params: {'lan': 'chen'}
+2020-01-21 12:39:56.452777 -- Failed to perform HTTP connectivity with GET request to www.yasdfasdfahoo.com with params: {'hey': 'chen'}
+2020-01-21 12:39:59.483657 -- Failed to perform HTTPS connectivity with GET request to www.chen.com
+2020-01-21 12:39:59.876867 -- Succeeded with latency of [0.29698] to perform HTTPS connectivity with GET request to www.facebook.com
+2020-01-21 12:40:10.026791 -- Succeeded to perform DNS lookup to www.google.com
+2020-01-21 12:40:10.040865 -- Failed to perform DNS lookup to www.googasdfasdfle.com
+2020-01-21 12:40:10.686704 -- Succeeded with latency of [0.296454] to perform HTTP connectivity with GET request to www.facebook.com with params: {'lan': 'chen'}
+2020-01-21 12:40:10.703647 -- Failed to perform HTTP connectivity with GET request to www.yasdfasdfahoo.com with params: {'hey': 'chen'}
+2020-01-21 12:40:13.769083 -- Failed to perform HTTPS connectivity with GET request to www.chen.com
+2020-01-21 12:40:14.173686 -- Succeeded with latency of [0.297279] to perform HTTPS connectivity with GET request to www.facebook.com

@@ -10,7 +10,7 @@ from app.unit_tests.unit_tests_helpers import UnitTestsHelpers
 class TestSuccessfulHTTPSConnectivity(unittest.TestCase):
     def setUp(self):
         self.address = 'www.google.com'
-        self.https_test = HTTPSConnectivity(address=self.address, method='GET', params=None)
+        self.https_test = HTTPSConnectivity(address=self.address, method='GET', params=None, accepted_latency_threashold=10)
         self.https_test.run()
 
     def test_success_log_write(self):
@@ -24,7 +24,7 @@ class TestSuccessfulHTTPSConnectivity(unittest.TestCase):
 class TestFailedHTTPSConnectivity(unittest.TestCase):
     def setUp(self):
         self.address = "www. " + UnitTestsHelpers.random_string() + ".com"
-        self.https_test = HTTPSConnectivity(address=self.address, method='GET', params=None)
+        self.https_test = HTTPSConnectivity(address=self.address, method='GET', params=None, accepted_latency_threashold=10)
         self.https_test.run()
 
     def test_faliure_log_write(self):

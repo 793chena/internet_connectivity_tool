@@ -16,8 +16,9 @@
       "name": "HTTP_CONNECTIVITY",
       "properties": {
         "method": "GET",
-        "address": "www.yahoo.com",
-        "params": {"lan":  "chen"}
+        "address": "www.facebook.com",
+        "params": {"lan":  "chen"},
+        "accepted_latency_threashold": 5
       }
     },
     {
@@ -25,7 +26,8 @@
       "properties": {
         "method": "GET",
         "address": "www.yasdfasdfahoo.com",
-        "params": {"hey":  "chen"}
+        "params": {"hey":  "chen"},
+        "accepted_latency_threashold": 5
       }
     },
     {
@@ -33,15 +35,17 @@
       "properties": {
         "method": "GET",
         "address": "www.chen.com",
-        "params": null
+        "params": null,
+        "accepted_latency_threashold": 5
       }
     },
     {
       "name": "HTTPS_CONNECTIVITY",
       "properties": {
         "method": "GET",
-        "address": "www.ynet.co.il",
-        "params": null
+        "address": "www.facebook.com",
+        "params": null,
+        "accepted_latency_threashold": 5
       }
     }
   ]
