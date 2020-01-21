@@ -116,3 +116,9 @@
 2020-01-21 09:45:19.860367 -- Succeeded to perform DNS lookup to www.google.com
 2020-01-21 09:45:20.912174 -- Succeeded with latency of [0.524883] to perform HTTP connectivity with GET request to www.yahoo.com with params: {'lan': 'chen'}
 2020-01-21 09:45:24.045337 -- Failed to perform HTTPS connectivity with GET request to www.chen.com
+2020-01-21 09:54:54.124357 -- Succeeded to perform DNS lookup to www.google.com
+2020-01-21 09:54:55.206418 -- Succeeded with latency of [0.542398] to perform HTTP connectivity with GET request to www.yahoo.com with params: {'lan': 'chen'}
+2020-01-21 09:54:58.270639 -- Failed to perform HTTPS connectivity with GET request to www.chen.com
+2020-01-21 09:56:33.343673 -- Succeeded to perform DNS lookup to www.google.com
+2020-01-21 09:56:34.443209 -- Succeeded with latency of [0.545975] to perform HTTP connectivity with GET request to www.yahoo.com with params: {'lan': 'chen'}
+2020-01-21 09:56:37.510742 -- Failed to perform HTTPS connectivity with GET request to www.chen.com

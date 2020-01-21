@@ -8,11 +8,7 @@ class InternetRequests(Test):
         self.address = address
         self.method = method
         self.params = params
-        self.success = None
         self.result_latency = None
-
-    def set_success(self, success):
-        self.success = success
 
     def set_result_latency(self, result_latency):
         self.result_latency = result_latency

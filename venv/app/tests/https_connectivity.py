@@ -9,16 +9,16 @@ class HTTPSConnectivity(InternetRequests):
         try:
             if self.method == 'GET':
                 latency = self.get_request_latency(url=HTTPS_PREFIX + self.address)
-                self.set_success(True)
+                success = True
                 self.set_result_latency(latency)
             else:
                 raise Exception("Method "+ self.method +" is currently not supported")
         except requests.exceptions.ConnectionError:
-            self.set_success(False)
-        self.log()
+            success = False
+        self.log(success)
 
-    def log_message(self):
-        result = "Succeeded with latency of [" + str(self.result_latency) +"] " if self.success else "Failed "
+    def log_message(self, success):
+        result = "Succeeded with latency of [" + str(self.result_latency) +"] " if success else "Failed "
         result += "to perform HTTPS connectivity with " + self.method + " request to " + self.address
         if self.params is not None and self.params != "":
             result +=" with params: " + self.params

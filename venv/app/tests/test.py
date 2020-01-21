@@ -8,10 +8,6 @@ class Test(ABC):
         pass
 
     @abstractmethod
-    def set_success(self):
-        pass
-
-    @abstractmethod
     def log_message(self):
         pass
 
@@ -21,7 +17,7 @@ class Test(ABC):
 
         f.close()
 
-    def log(self):
-        message = self.log_message()
+    def log(self, success):
+        message = self.log_message(success)
         self.write_to_log_file(message)
         print(message)
