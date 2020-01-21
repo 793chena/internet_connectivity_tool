@@ -122,3 +122,12 @@
 2020-01-21 09:56:33.343673 -- Succeeded to perform DNS lookup to www.google.com
 2020-01-21 09:56:34.443209 -- Succeeded with latency of [0.545975] to perform HTTP connectivity with GET request to www.yahoo.com with params: {'lan': 'chen'}
 2020-01-21 09:56:37.510742 -- Failed to perform HTTPS connectivity with GET request to www.chen.com
+2020-01-21 09:58:12.342683 -- Failed to perform DNS lookup to www.googasdfasdfle.com
+2020-01-21 09:58:13.380929 -- Succeeded with latency of [0.499784] to perform HTTP connectivity with GET request to www.yahoo.com with params: {'lan': 'chen'}
+2020-01-21 09:58:16.432474 -- Failed to perform HTTPS connectivity with GET request to www.chen.com
+2020-01-21 09:58:27.955451 -- Failed to perform DNS lookup to www.googasdfasdfle.com
+2020-01-21 09:58:29.073667 -- Succeeded with latency of [0.557857] to perform HTTP connectivity with GET request to www.yahoo.com with params: {'lan': 'chen'}
+2020-01-21 09:58:34.010545 -- Succeeded with latency of [4.853453] to perform HTTPS connectivity with GET request to www.facebook.com
+2020-01-21 10:00:51.011516 -- Failed to perform DNS lookup to www.googasdfasdfle.com
+2020-01-21 10:00:52.027407 -- Succeeded with latency of [0.483025] to perform HTTP connectivity with GET request to www.yahoo.com with params: {'lan': 'chen'}
+2020-01-21 10:00:52.481525 -- Succeeded with latency of [0.332781] to perform HTTPS connectivity with GET request to www.facebook.com

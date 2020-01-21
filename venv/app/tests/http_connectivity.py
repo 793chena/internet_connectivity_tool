@@ -1,9 +1,9 @@
-from .internet_requests import InternetRequests
+from .http_protocols_requests import HttpProtocolsRequests
 import requests
 
 HTTP_PREFIX = 'http://'
 
-class HTTPConnectivity(InternetRequests):
+class HTTPConnectivity(HttpProtocolsRequests):
     def run(self):
         try:
             if self.method == 'GET':

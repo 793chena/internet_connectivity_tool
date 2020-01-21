@@ -9,7 +9,7 @@ class DNSConnectivity(Test):
         try:
             socket.gethostbyname(self.address)
             success = True
-        except socket.gaierror: #make sure!!!
+        except socket.gaierror:
             success = False
         self.log(success)
 
